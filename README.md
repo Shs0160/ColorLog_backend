@@ -16,3 +16,6 @@
 #### underline
 
     <u>text</u>
+
+#### headings
+    h1부터 h6까
