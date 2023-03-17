@@ -5,17 +5,5 @@
 2. 새로운 코드작성 후 리로드
 ---------------------
 
-#### tag
+## Netflix 콘텐츠 추천 & 소개 페이지 만들기
 
-    <>text</>
-
-#### 글자 강조
-    
-    <strong>text</strong>
-    
-#### underline
-
-    <u>text</u>
-
-#### headings
-    h1부터 h6까
