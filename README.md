@@ -7,7 +7,12 @@
 
 #### tag
 
+    <>text</>
+
+#### 글자 강조
+    
     <strong>text</strong>
+    
 #### underline
 
     <u>text</u>
