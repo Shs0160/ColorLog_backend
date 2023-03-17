@@ -4,18 +4,5 @@
 1. HTML파일 생성 후 웹 브라우저에 옮기기 or ctrl + o
 2. 새로운 코드작성 후 리로드
 ---------------------
+## Netflix 콘텐츠 추천&소개 페이지 만들기
 
-#### tag
-
-    <>text</>
-
-#### 글자 강조
-    
-    <strong>text</strong>
-    
-#### underline
-
-    <u>text</u>
-
-#### headings
-    h1부터 h6까
