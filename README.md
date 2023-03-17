@@ -11,6 +11,15 @@ Netflix contents recommendation page
 
 
 
-## 1. page 소개
-제가 Netflis를 이용하시는 분들께 추천해 드리고 싶은 작품들을
-추천해 드리는 사이트 입니다. 
+### 1. page 소개
+> 제가 Netflis를 이용하시는 분들께 추천해 드리고 싶은 작품들을
+> 추천해 드리는 사이트 입니다. 
+
+### 2. 사용
++ html
++ css
++ js
+
+### 3. 목차
++ 페이지 구성
++ 
